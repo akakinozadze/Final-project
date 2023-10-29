@@ -1,14 +1,19 @@
 .body {
     width: 100%;
     background-color: hsl(20, 20%, 20%);
+    height: 10000px;
+    padding-top: 64px;
 }
 
 .header {
     max-width: 1440px;
     height: 64px;
-    margin: auto;
+    transform: translate(10%,10%);
     padding-top: 16px;
     width: 100%;
+    position: fixed;
+    top: 0;
+    
 }
 
 .header-mother-box {
@@ -42,6 +47,7 @@
     height: 19px;
     width: 100%;
     margin-top: 8px;
+    background-color: rgb(160, 95, 95);
 }
 
 .navigation {
@@ -91,7 +97,7 @@
 
 .get-started {
     background-color: #2B892E;
-    border-radius: 16px;
+    border-radius: 100px;
     display: grid;
     place-items: center;
     max-width: 106px;
@@ -104,4 +110,102 @@
 
 .get-started:hover {
     transform: scale(1.1);
+}
+.borger-bar {
+    max-width: 24px;
+    height: 24px;
+    width: 100%;
+    display:grid;
+    place-items:center;
+    display: none;
+
+}
+.burger {
+    max-width: 18px;
+    height: 2px;
+    background-color: #FFFFFF;
+    width: 100%;
+}
+.burger2 {
+    max-width: 18px;
+    height: 2px;
+    background-color: #FFFFFF;
+    width: 100%;
+    margin-top: 2px;
+}
+.burger3 {
+    max-width: 18px;
+    height: 2px;
+    background-color: #FFFFFF;
+    width: 100%;
+    margin-top: 2px;
+}
+
+/* section-1 style */
+.section-1 {
+    width: 100%;
+
+}
+
+.section-1-mother {
+    max-width: 896px;
+    height: 443px;
+    background-color: aquamarine;
+    margin: auto;
+    margin-top: 103px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-1-h4 {
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    font-size: 96px;
+    color: #FFFFFF;
+    background-color: blue;
+}
+.section-1-pharagrap {
+    color:  #FFFFFF;
+    text-align: center;
+    font-size: 24px;
+    max-width: 668px;
+    margin-top: 24px;
+    background-color: blue;
+}
+.get-started-2 {
+    background-color: #2B892E;
+    border-radius: 100px;
+    display: grid;
+    place-items: center;
+    max-width: 146px;
+    width: 100%;
+    font-size: 16px;
+    color: aliceblue;
+    transition: all;
+    transition-duration: 0.5s;
+    height: 51px;
+    margin-top: 32px;
+}
+.get-started-2:hover {
+    transform: scale(1.1);
+
+}
+.baner-image-375 {
+    display: none;
+}
+/* section-2 */
+.section-2 {
+    width: 100%;
+}
+.box-baner-image-1 {
+    padding-top: 40px;
+    margin: auto;
+    max-width: 1360px;
+    height: 700px;
+}
+.baner-image {
+    object-fit: cover;
+    width: 100%;
 }
