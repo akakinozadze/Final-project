@@ -162,4 +162,159 @@
         height: 72px;
     }
 
+    /* ! section 4  */
+    .section-4-grandmother {
+        max-width: 342px;
+        height: 1700px;
+        background-color: blue;
+    }
+
+    .section-4-top-mother {
+        max-width: 342px;
+        height: 846px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .top-son-left {
+        max-width: 342px;
+        height: 395px;
+        background-color: blue;
+    }
+
+    .top-son-left-2 {
+        max-width: 294px;
+        height: 154.88px;
+        background-color: chartreuse;
+        margin-top: 37px;
+    }
+
+    .top-grandson1-left {
+        max-width: 232.97px;
+        height: 43.97px;
+        width: 100%;
+    }
+
+    .section-4-box {
+        max-width: 294px;
+        height: 49.87px;
+    }
+
+    .section-4-icon1 {
+        max-width: 23.62px;
+        height: 23.62px;
+        width: 100%;
+    }
+
+    .section-4-pharagrap1 {
+        max-width: 221.34px;
+        height: 12.48px;
+        font-size: 12px;
+        line-height: 14px;
+
+    }
+
+    .section-4-pharagrap2 {
+        font-size: 14px;
+    }
+
+    .section-4-grandson-2-left-botom-box {
+        max-width: 294px;
+        height: 92px;
+        background-color: coral;
+        margin: auto;
+        margin-top: 87.13px;
+    }
+
+    .section-4-left-pharagrap1 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    .section-4-left-pharagrap2 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .top-son-right {
+        max-width: 342px;
+        height: 395px;
+        background-color: darkgreen;
+    }
+
+    .top-son-right-2 {
+        max-width: 342px;
+        height: 164px;
+        background-color: rgb(160, 105, 95);
+       
+    }
+
+    .top-grandson1-right {
+        max-width: 266px;
+        height: 46px;
+    }
+
+    .section-4-icon1-right {
+        max-width: 28.75px;
+        height: 28.75px;
+    }
+
+    .section4-icon1-right {
+        max-width: 18px;
+        height: 18px;
+    }
+
+    .section-4-pharagrap-right-1 {
+        font-size: 12px;
+
+    }
+    .grandson-right-pharagrap-2 {
+        font-size: 12px;
+        width: 100%;
+    }
+    .grandosn-1right {
+        max-width: 294px;
+    }
+    .section-4-mother-pharagrap {
+        max-width: 292px;
+        height: 116px;
+
+    }
+    .section4-pharagrap1-right {
+        font-size: 24px;
+        line-height: 28px;
+
+    }
+    .section4-pharagrap2-right {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    /* ! section-4-bottom-mother */
+    .section-4-bottom-mother {
+        display: flex;
+        flex-direction: column;
+        max-width: 342px;
+        height: 822px;
+        background-color: rgb(26, 27, 27);
+    }
+    .bottom-son-left {
+        max-width: 342px;
+        /* height: 395px; */
+        display: flex;
+        flex-direction: column;
+        /* background-color: aqua; */
+
+    }
+    .bottom-son-left1 {
+        max-width: 294px;
+        height: 120.2px;
+        
+
+    }
+    .section-4-bottom-left-pharagraps-box {
+        max-width: 294px;
+        height: 116px;
+        
+    }
 }
