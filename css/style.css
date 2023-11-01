@@ -45,7 +45,6 @@
     height: 16px;
     width: 100%;
     margin-top: 8px;
-    background-color: rgb(160, 95, 95);
 }
 
 .navigation {
@@ -58,6 +57,7 @@
     color: aliceblue;
     transition: all;
     transition-duration: 0.5s;
+    font-family: 'Cabin';
 }
 
 .li:hover {
@@ -71,6 +71,7 @@
     display: flex;
     justify-content: space-between;
     width: 100%;
+    font-family: 'Cabin';
 
 }
 
@@ -85,6 +86,7 @@
     text-align: center;
     transition: all;
     transition-duration: 0.5s;
+    font-family: 'Cabin';
 }
 
 .header-h5:hover {
@@ -103,6 +105,7 @@
     color: aliceblue;
     transition: all;
     transition-duration: 0.5s;
+    font-family: 'Cabin';
 }
 
 .get-started:hover {
@@ -166,6 +169,7 @@
     text-align: center;
     font-size: 96px;
     color: #FFFFFF;
+    font-family: 'Manrope';
 }
 
 .section-1-pharagrap {
@@ -174,6 +178,7 @@
     font-size: 24px;
     max-width: 668px;
     margin-top: 24px;
+    font-family: 'Cabin';
 }
 
 .get-started-2 {
@@ -255,6 +260,7 @@
     transition: all;
     transition-duration: 0.5s;
 }
+
 .image-forbes:hover {
     transform: scale(2.2);
 }
@@ -275,6 +281,7 @@
     transition: all;
     transition-duration: 0.5s;
 }
+
 .image-cnbc:hover {
     transform: scale(2.2);
 }
@@ -287,6 +294,7 @@
     transition: all;
     transition-duration: 0.5s;
 }
+
 .image-bloomberg:hover {
     transform: scale(2.2);
 }
@@ -299,6 +307,7 @@
     transition: all;
     transition-duration: 0.5s;
 }
+
 .image-reuters:hover {
     transform: scale(2.2);
 }
@@ -311,6 +320,7 @@
     transition: all;
     transition-duration: 0.5s;
 }
+
 .image-cnn:hover {
     transform: scale(2.2);
 }
@@ -324,6 +334,7 @@
 .section-3-h5 {
     font-size: 20px;
     color: #BDBDBD;
+    font-family: 'Manrope';
 
 }
 
@@ -332,7 +343,7 @@
     max-width: 217px;
     height: 23px;
     text-align: center;
-   
+
 }
 
 .section-3-mother-pharagrap {
@@ -360,14 +371,17 @@
     font-weight: 500;
     color: #989898;
     text-align: center;
+    font-family: 'Cabin';
 }
+
 /* ! section-4 */
 .section-4-grandmother {
     max-width: 1288px;
     height: 1044px;
-    background-color:#131313;
+    background-color: #131313;
     margin: auto;
 }
+
 .section-4-top-mother {
     max-width: 1288px;
     height: 494px;
@@ -375,27 +389,30 @@
     display: flex;
     justify-content: space-between;
 }
+
 .top-son-left {
     max-width: 806px;
     height: 494px;
     background-color: chartreuse;
     width: 100%;
-  
-    
+
+
 }
+
 .top-grandson1-left {
-    max-width:356px ;
+    max-width: 356px;
     height: 68px;
-    background-color:#222020 ;
+    background-color: #222020;
     display: flex;
-    justify-content:space-around;
+    justify-content: space-around;
     align-items: center;
     margin: auto;
     border-radius: 16px;
     width: 100%;
 }
+
 .section-4-icon1 {
-    background-color:#2B2B2B ;
+    background-color: #2B2B2B;
     border-radius: 8px;
     max-width: 36px;
     height: 36px;
@@ -405,66 +422,76 @@
     transition: all;
     transition-duration: 0.5s;
 }
-.section-4-icon1:hover{
-    transform:scale(2.2) ;
+
+.section-4-icon1:hover {
+    transform: scale(2.2);
 }
 
-.section4-icon1 {   
+.section4-icon1 {
     object-fit: cover;
-    
+
 }
+
 .section-4-pharagrap1 {
-   color:#FFFFFF;
+    color: #FFFFFF;
     font-size: 16px;
     max-width: 262px;
     height: 24px;
     line-height: 24px;
 }
+
 .section-4-box {
-    max-width:448px ;
+    max-width: 448px;
 
 }
+
 .section-4-pharagrap2 {
     max-width: 340px;
     height: 24px;
     font-size: 20px;
     line-height: 24px;
-    color:#FFFFFF;
+    color: #FFFFFF;
+    font-family: 'Cabin';
 
 }
+
 .top-son-left-2 {
     background-color: aqua;
     max-width: 448px;
     height: 236px;
     display: grid;
-    align-content:space-between;
+    align-content: space-between;
     margin: auto;
     margin-top: 71px;
 }
+
 .section-4-grandson-2-left-botom-box {
     background-color: aquamarine;
     max-width: 500px;
     height: 92px;
     margin-top: 95px;
-    
+
 }
+
 .section-4-left-pharagrap1 {
     color: #FFFFFF;
     font-size: 32px;
     line-height: 28px;
     background-color: blue;
-    
+    font-family: 'Manrope';
+
 }
+
 .section-4-left-pharagrap2 {
     color: #BDBDBD;
     font-size: 16px;
     line-height: 24px;
     background-color: brown;
     max-width: 516px;
-    /* width: 100%; */
     height: 48px;
     margin-top: 16px;
 }
+
 /*!section-4 right box  */
 .top-son-right {
     max-width: 434px;
@@ -473,6 +500,7 @@
     width: 100%;
     /* background-color: #131313; */
 }
+
 .top-son-right-2 {
     max-width: 434px;
     height: 261px;
@@ -482,9 +510,10 @@
     align-items: end;
     flex-direction: column;
     justify-content: space-evenly;
-    margin-top: 54px ;
-   
+    margin-top: 54px;
+
 }
+
 .top-grandson1-right {
     background-color: #892b30;
     max-width: 363px;
@@ -494,10 +523,11 @@
     align-items: center;
     justify-content: space-around;
     border-top-left-radius: 18px;
-    border-bottom-left-radius:18px
+    border-bottom-left-radius: 18px
 }
+
 .section-4-icon1-right {
-    background-color:#2B4089 ;
+    background-color: #2B4089;
     border-radius: 8px;
     max-width: 40px;
     height: 46px;
@@ -507,32 +537,39 @@
     transition: all;
     transition-duration: 0.5s;
 }
+
 .section-4-icon1-right:hover {
     transform: scale(2.2);
 }
+
 .section-4-pharagrap-right-1 {
     max-width: 135px;
     height: 26px;
     width: 100%;
     font-size: 20px;
     line-height: 24px;
-    color:#FFFFFF ;
-    
-    
+    color: #FFFFFF;
+
+
+
 }
+
 .grandosn-1right {
     max-width: 409px;
 
 }
+
 .grandson-right-pharagrap-2 {
     font-size: 24px;
     max-width: 249px;
     height: 28px;
 }
+
 .grandson-right-pharagrap-3 {
     max-width: 184px;
     height: 27px;
 }
+
 .section-4-mother-pharagrap {
     background-color: rgb(255, 0, 64);
     max-width: 362px;
@@ -541,14 +578,17 @@
     margin-top: 56px;
 
 }
+
 .section4-pharagrap1-right {
-    color:#FFFFFF ;
+    color: #FFFFFF;
     font-size: 32px;
     line-height: 28px;
     width: 100%;
     font-weight: 500;
     background-color: #2B892E;
+    font-family: 'Manrope';
 }
+
 .section4-pharagrap2-right {
     color: #BDBDBD;
     font-size: 16px;
@@ -556,4 +596,116 @@
     font-weight: 500;
     width: 100%;
     margin-top: 16px;
+    font-family: 'Cabin';
+}
+
+/* ! section-4 style- bottom box */
+.section-4-bottom-mother {
+    max-width: 1288px;
+    height: 495px;
+    background-color: #2B4089;
+    margin-top: 52px;
+}
+
+.bottom-son-left {
+    max-width: 440px;
+    height: 495px;
+    background-color: #2B892E;
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+
+
+}
+
+.bottom-son-left1 {
+    max-width: 350px;
+    height: 148px;
+    background-color: #333333;
+    width: 100%;
+    margin-top: 99px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    border-radius: 12px;
+}
+
+.bottom-son-left2 {
+    max-width: 332px;
+    height: 98px;
+    width: 100%;
+    background-color: blue;
+}
+
+.section-4-bottom-left-grandson1 {
+    max-width: 215px;
+    height: 60px;
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    /* margin-top: 24px; */
+}
+
+.section-4-image {
+    max-width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    width: 100%;
+}
+
+.section-4-bottom-wade-warren {
+    max-width: 139px;
+    height: 50px;
+    width: 100%;
+}
+
+.section4-pharagrap1-bottom {
+    font-size: 24px;
+    color: #FFFFFF;
+    background-color: #2B892E;
+    height: 29px;
+    font-weight: 500;
+    font-family: 'Cabin';
+
+
+}
+
+.section4-pharagrap2-bottom {
+    font-size: 14px;
+    color: #989898;
+    margin-top: 4px;
+    height: 17px;
+    background-color: #892b30;
+    font-family: 'Cabin';
+}
+
+.section-4-bottom-left-pharagraps-box {
+    max-width: 362px;
+    height: 92px;
+    background-color: yellow;
+    width: 100%;
+    margin-top: 107px;
+    font-family: 'Manrope';
+}
+
+.section4-pharagrap3-bottom {
+    color: #FFFFFF;
+    line-height: 28px;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.section4-pharagrap4-bottom {
+    color: #BDBDBD;
+    line-height: 24px;
+    font-size: 16px;
+    font-weight: 500;
+    width: 100%;
+    background-color: #892b30;
+    margin-top: 16px;
+    font-family: 'Cabin';
 }
