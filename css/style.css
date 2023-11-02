@@ -241,7 +241,7 @@
 
 .section-3-mother {
     max-width: 896px;
-    height: 573.63px;
+    height: 132px;
     margin: auto;
     width: 100%;
     display: grid;
@@ -348,16 +348,27 @@
 
 }
 
-.section-3-mother-pharagrap {
+/* ! section-4 */
+.section-4 {
+    margin-top: 180px;
+}
+.section-4-grandmother {
+    max-width: 1288px;
+    height: 1044px;
+    /* background-color: #131313; */
+    margin: auto;
+}
+.section4-34-mother-pharagrap {
     max-width: 896px;
     height: 262px;
     margin-top: 50px;
     display: grid;
     place-items: center;
+    margin: auto;
 
 }
 
-.section-3-h5-bottom {
+.section4-34-h5-bottom {
     font-size: 76px;
     font-weight: 500;
     color: #FFFFFF;
@@ -369,7 +380,7 @@
     border-radius: 60px;
 }
 
-.section-3-pharagrap {
+.section4-34-pharagrap {
     max-width: 668px;
     height: 56px;
     font-size: 20px;
@@ -377,17 +388,9 @@
     color: #989898;
     text-align: center;
     font-family: 'Cabin';
-    text-shadow: 10px 10px 40px rgb(3, 12, 29);
+    text-shadow: 10px 10px 40px rgb(19, 38, 73);
     border-radius: 8px;
     margin-top: 20px;
-}
-
-/* ! section-4 */
-.section-4-grandmother {
-    max-width: 1288px;
-    height: 1044px;
-    /* background-color: #131313; */
-    margin: auto;
 }
 
 .section-4-top-mother {
@@ -822,7 +825,7 @@
     height: 1168px;
     width: 100%;
     margin: auto;
-    margin-top: 117px;
+    margin-top: 417px;
 }
 
 .section-5-mother-pharagrap {
