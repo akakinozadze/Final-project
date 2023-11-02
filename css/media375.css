@@ -75,7 +75,9 @@
 
     }
 
-    .get-started-2 {}
+    .get-started-2 {
+        display: none;
+    }
 
     /* section-2 */
     .box-baner-image-1 {
