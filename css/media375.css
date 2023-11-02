@@ -96,7 +96,6 @@
     /* ! section-3 */
     .section-3-mother {
         max-width: 440px;
-        height: 335px;
     }
 
     .section-3-mother-icon {
@@ -140,23 +139,23 @@
         margin-top: 20px;
     }
 
-    .section-3-mother-pharagrap {
+    .section4-34-mother-pharagrap {
         max-width: 342px;
         height: 182px;
         width: 100%;
         margin: auto;
         display: grid;
         align-content: space-between;
-        margin-top: 30px;
+        /* margin-top: 30px; */
     }
 
-    .section-3-h5-bottom {
+    .section4-34-h5-bottom {
         font-size: 36px;
         font-weight: 500;
         height: 86px;
     }
 
-    .section-3-pharagrap {
+    .section4-34-pharagrap {
         font-size: 16px;
         line-height: 24px;
         height: 72px;
@@ -184,7 +183,7 @@
     .top-son-left-2 {
         max-width: 294px;
         height: 154.88px;
-        margin-top: 37px;
+        
     }
 
     .top-grandson1-left {
