@@ -33,7 +33,7 @@
         display: none;
     }
 
-    .borger-bar {
+    .burger-bar {
         max-width: 24px;
         height: 24px;
         width: 100%;
@@ -42,9 +42,10 @@
         margin-top: 2.5px;
         transition: all;
         transition-duration: 0.5s;
+        box-shadow: 5px 5px 10px;
     }
 
-    .borger-bar:hover {
+    .burger-bar:hover {
         transform: scale(1.1);
         background-color: #282e28;
     }
