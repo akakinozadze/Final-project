@@ -33,6 +33,7 @@
     transition: all;
     transition-duration: 0.5s;
     box-shadow: 5px 5px 20px rgb(8, 28, 66);
+    border-radius: 18px;
 
 }
 
