@@ -60,7 +60,7 @@
     transition: all;
     transition-duration: 0.5s;
     font-family: 'Cabin';
-    box-shadow: 5px 5px 20px  rgb(8, 28, 66);
+    box-shadow: 5px 5px 20px rgb(8, 28, 66);
 }
 
 .li:hover {
@@ -75,7 +75,8 @@
     justify-content: space-between;
     width: 100%;
     font-family: 'Cabin';
-    box-shadow: 5px 5px 20px  rgb(8, 28, 66);
+    box-shadow: 5px 5px 20px rgb(8, 28, 66);
+    border-radius: 16px;
 
 }
 
@@ -96,7 +97,7 @@
 .header-h5:hover {
     color: #2B892E;
     transform: scale(1.1);
-    
+
 }
 
 .get-started {
@@ -353,7 +354,7 @@
     margin-top: 50px;
     display: grid;
     place-items: center;
- 
+
 }
 
 .section-3-h5-bottom {
@@ -364,8 +365,8 @@
     height: 182px;
     text-align: center;
     width: 100%;
-    box-shadow: 5px 5px 20px ;
-    border-radius: 100px;
+    box-shadow: 5px 5px 20px;
+    border-radius: 60px;
 }
 
 .section-3-pharagrap {
@@ -376,7 +377,7 @@
     color: #989898;
     text-align: center;
     font-family: 'Cabin';
-   text-shadow: 10px 10px 40px rgb(3, 12, 29);
+    text-shadow: 10px 10px 40px rgb(3, 12, 29);
     border-radius: 8px;
     margin-top: 20px;
 }
@@ -470,7 +471,7 @@
     align-content: space-between;
     margin: auto;
     margin-top: 71px;
-  
+
 }
 
 .section-4-grandson-2-left-botom-box {
@@ -652,7 +653,7 @@
     max-width: 332px;
     height: 98px;
     width: 100%;
-    
+
 }
 
 .section-4-bottom-left-grandson1 {
@@ -662,7 +663,7 @@
     justify-content: space-between;
     align-items: center;
     width: 100%;
-   
+
 }
 
 .section-4-image {
@@ -784,6 +785,7 @@
     transition-duration: 0.5s;
 
 }
+
 .section4-last-icon:hover {
     transform: scale(1.1);
 }
@@ -812,4 +814,121 @@
     font-weight: 500;
     margin-top: 16px;
     text-shadow: 5px 5px 5px rgb(12, 30, 63);
+}
+
+/* ! section 5 */
+.section-5-grendmother {
+    max-width: 1296px;
+    height: 1168px;
+    width: 100%;
+    margin: auto;
+    margin-top: 117px;
+}
+
+.section-5-mother-pharagrap {
+    max-width: 896px;
+    height: 262px;
+    background-color: #2B4089;
+    margin: auto;
+}
+
+.section-5-h5 {
+    font-size: 76px;
+    font-weight: 500;
+    text-align: center;
+    background-color: #2B892E;
+    color: #FFFFFF;
+
+}
+
+.section-5-top-pharagrap {
+    text-align: center;
+    color: #BDBDBD;
+    line-height: 28px;
+    font-size: 20px;
+    background-color: #80892b;
+    max-width: 668px;
+    width: 100%;
+    margin: auto;
+    margin-top: 24px;
+    font-family: 'Manrope';
+}
+
+.section-5-baner {
+    max-width: 1296px;
+    height: 615px;
+    width: 100%;
+    border-radius: 16px;
+    margin-top: 124px;
+}
+
+.section-5-baner1 {
+    width: 100%;
+    object-fit: cover;
+}
+
+.section-5-bottom-box {
+    max-width: 1296px;
+    height: 187px;
+    display: flex;
+    justify-content: space-between;
+    width: 100% ;
+    margin-top: 80px;
+}
+
+.section-5-bottom-last {
+    max-width: 416px;
+    height: 87px;
+    width: 100%;
+
+}
+
+.section-5-icon-box {
+    max-width: 414.29px;
+    height: 29px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section5-h5 {
+    max-width: 324px;
+    width: 100%;
+    color:#FFFFFF ;
+    font-size: 24px;
+    font-weight: 500;
+    text-shadow: 5px 5px 20px rgb(8, 23, 51);
+    font-family: 'Manrope';
+}
+.section-5-icon-and-h5-mother {
+    max-width: 26px;
+    height: 24px;
+    display: flex;
+    place-items: center;
+    border-radius: 2px;
+   
+}
+.section5-icon {
+    max-width: 19px;
+    height: 19px;
+    width: 100%;
+    object-fit: cover;
+    box-shadow: 5px 5px 5px ;
+    transition: all;
+    transition-duration: 0.5s;
+   
+   
+}
+.section5-icon:hover {
+    transform: scale(2.2);
+}
+.section5-pharagrap {
+    color:#BDBDBD;
+    font-size: 16px;
+    line-height: 24px;
+    box-shadow: 5px 5px 20px black;
+    border-radius: 12px;
+    margin-top: 10px;
+    font-family: 'Cabin';
 }

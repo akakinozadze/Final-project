@@ -288,14 +288,12 @@
         display: flex;
         flex-direction: column;
         max-width: 342px;
-        height: 822px;
-        background-color: rgb(26, 27, 27);
+     
     }
     .bottom-son-left {
         max-width: 342px;
         display: flex;
         flex-direction: column;
-        /* background-color: aqua; */
 
     }
     .bottom-son-left1 {
