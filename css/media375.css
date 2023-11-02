@@ -332,4 +332,63 @@
         font-size: 16px;
         line-height: 24px;
     }
+    /* ! section 5 */
+    .section-5 {
+        padding-top: 100px;
+    }
+    .section-5-grendmother {
+        max-width: 342px;
+        height: 1056px;
+       
+    }
+    .section-5-mother-pharagrap {
+        max-width: 342px;
+        height: 182px;
+
+    }
+    .section-5-h5 {
+        font-size: 36px;
+    }
+    .section-5-top-pharagrap {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .section-5-baner1 {
+        display: none;
+    
+    }
+    .section-5-baner {
+        background-image: url(../image/svg.375.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 380px;
+        
+    }
+    .section-5-bottom-box {
+        max-width: 342px;
+        height: 358px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-between;
+       
+    }
+    .section-5-bottom-last {
+        max-width: 342px;
+        height: 106px;
+
+    }
+    .section5-h5 {
+        font-size: 20px;  
+        max-width: 300px;
+    }
+    .section5-pharagrap {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .section-5-icon-and-h5-mother {
+        max-width: 19.5px;
+        height: 19.5px;
+    }
+
 } 

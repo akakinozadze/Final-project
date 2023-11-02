@@ -30,90 +30,154 @@
         max-width: 696px;
         height: 474px;
     }
+
     /*  ! section 4 */
     .section-4-top-mother {
-        max-width:1024px;
+        max-width: 1024px;
         height: 393px;
         width: 100%
-
     }
+
     .top-son-left {
-        max-width:506px ;
+        max-width: 506px;
         height: 394px;
         width: 100%;
     }
+
     .top-son-left-2 {
         max-width: 410px;
         height: 136px;
         width: 100%;
     }
+
     .top-grandson1-left {
         max-width: 256px;
         height: 34px;
         width: 100%;
     }
+
     .section-4-box {
         max-width: 300px;
         width: 100%;
     }
+
     .section-4-pharagrap1 {
         font-size: 12px;
-        
+
     }
+
     .section-4-pharagrap2 {
         font-size: 13px;
     }
+
     .section-4-icon1 {
         max-width: 26px;
         height: 26px;
 
     }
-    .section-4-grandson-2-left-botom-box  {
+
+    .section-4-grandson-2-left-botom-box {
         max-width: 300px;
         width: 100%;
     }
+
     .section-4-left-pharagrap1 {
         font-size: 26px;
 
     }
+
     .section-4-left-pharagrap2 {
         font-size: 12;
     }
+
     .top-son-right {
         max-width: 424px;
-        height:393px ;
+        height: 393px;
         margin-left: 10px;
     }
+
     .top-son-right-2 {
         max-width: 434px;
         height: 202px;
     }
+
     .top-grandson1-right {
         max-width: 282px;
         height: 54px;
     }
+
     .grandosn-1right {
         max-width: 319px;
     }
+
     .section-4-icon1-right {
         max-width: 30px;
         height: 36px;
     }
+
     .section-4-pharagrap-right-1 {
         font-size: 16px;
-        
+
     }
+
     .section-4-mother-pharagrap {
         max-width: 362px;
         height: 76px;
     }
+
     .section4-pharagrap1-right {
         font-size: 28px;
     }
+
     .section4-pharagrap2-right {
         font-size: 12px;
         line-height: 18px;
     }
 
+    /* ! section 5 */
+    .section-5-grendmother {
+        max-width: 1024px;
+
+    }
+    .section-5-mother-pharagrap {
+        max-width: 696px;
+        height: 196px;
+    }
+    .section-5-h5 {
+        font-size: 58px;
+    }
+    .section-5-top-pharagrap {
+        font-size: 16px;
+    }
+    .section-5-baner {
+        max-width: 1024px;
+        width: 100%;
+        margin-top: 70px;
+
+    }
+    .section-5-baner1 {
+        width: 100%;
+        object-fit: cover;
+    }
+    .section-5-bottom-box {
+        max-width: 1024px;
+    }
+    .section-5-bottom-last {
+        max-width: 276px;
+    }
+    .section-5-icon-box {
+        max-width: 314px;
+      
+    }
+    .section5-h5 {
+        max-width: 234px;
+        
+    }
+    .section5-h5 {
+        font-size: 14px;
+    }
+    .section5-pharagrap {
+        font-size: 15px;
+    }
 
 }

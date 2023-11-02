@@ -828,16 +828,17 @@
 .section-5-mother-pharagrap {
     max-width: 896px;
     height: 262px;
-    background-color: #2B4089;
     margin: auto;
+    box-shadow: 5px 5px 20px cornflowerblue;
+    border-radius: 8px;
 }
 
 .section-5-h5 {
     font-size: 76px;
     font-weight: 500;
     text-align: center;
-    background-color: #2B892E;
     color: #FFFFFF;
+    text-shadow:5px 5px 30px rgb(11, 22, 44) ;
 
 }
 
@@ -846,12 +847,12 @@
     color: #BDBDBD;
     line-height: 28px;
     font-size: 20px;
-    background-color: #80892b;
     max-width: 668px;
     width: 100%;
     margin: auto;
     margin-top: 24px;
     font-family: 'Manrope';
+    text-shadow:5px 5px 30px rgb(11, 22, 44) ;
 }
 
 .section-5-baner {
@@ -865,6 +866,7 @@
 .section-5-baner1 {
     width: 100%;
     object-fit: cover;
+    height: 100%;
 }
 
 .section-5-bottom-box {
