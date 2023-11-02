@@ -348,14 +348,13 @@
 }
 
 /* ! section-4 */
-.section-4 {
-    margin-top: 180px;
-}
+
 .section-4-grandmother {
     max-width: 1288px;
     height: 1044px;
     /* background-color: #131313; */
     margin: auto;
+    margin-top: 130px;
 }
 .section4-34-mother-pharagrap {
     max-width: 896px;
