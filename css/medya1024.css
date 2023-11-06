@@ -1,4 +1,4 @@
-@media (min-width:800px) and (max-width:1024px) {
+@media (min-width:750px) and (max-width:1024px) {
     .header-mother-box {
         max-width: 812px;
         /* width: 100%; */
@@ -15,10 +15,14 @@
         width: 100%;
 
     }
+    .get-started-2 {
+        
+    }
 
     .box-baner-image-1 {
         max-width: 950px;
         width: 100%;
+        margin-top: 50px;
     }
 
     .baner-image-375 {
@@ -152,25 +156,17 @@
     .section-5-top-pharagrap {
         font-size: 16px;
     }
-/* ? გასასწორებელი მაქვს ეს ბანერი ცენტრში */
     .section-5-baner {
         max-width: 1024px;
-        /* width: 90%; */
-        margin-top: 70px;
-       
+        margin-top: 70px; 
         border-radius: 16px;
-        background-color: aqua;
-       
-        
-    
-
+                 
     }
 
     .section-5-baner1 {
         width: 100%;
         object-fit: cover;
-        
-
+       
     }
 
     .section-5-bottom-box {
@@ -178,7 +174,7 @@
     }
 
     .section-5-bottom-last {
-        max-width: 276px;
+        max-width: 240px;
     }
 
     .section-5-icon-box {
@@ -220,6 +216,8 @@
     .section-6-title-box  {
         max-width: 796px;
         height: 204px;
+        width: 90%;
+      
         
     }
     .section6-h5 {
@@ -231,9 +229,11 @@
     .section-6-mother-2box {
         max-width: 924px;
         height: 470px;
+        display: flex;
+        justify-content: space-around;
     }
     .section-6-left-box {
-        max-width: 440px;
+        max-width: 360px;
         height: 470px;
     }
     .section-6-pharagrap-mother {
@@ -244,12 +244,11 @@
     .section-6-h6 {
         font-size: 24px;
         line-height: 22px;
-        background-color: cadetblue;
     }
     .section-6-pharagrap-2 {
         font-size: 16px;
         line-height: 24px;
-        background-color: rgb(8, 61, 61);
+
     }
     .section-6-icon-mother {
         max-width: 316px;

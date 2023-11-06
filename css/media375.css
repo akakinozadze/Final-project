@@ -1,4 +1,4 @@
-@media (min-width:300px) and (max-width:800px) {
+@media (min-width:300px) and (max-width:749px) {
     .header-mother-box {
         max-width: 342px;
         height: 29px;
@@ -482,6 +482,7 @@
     .section-6-icon {
        width: 100%;
        height: 100%;
+
     }
     .section6-icon {
         width: 100%;

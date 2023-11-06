@@ -903,14 +903,15 @@
     max-width: 1296px;
     height: 615px;
     width: 100%;
-    border-radius: 16px;
     margin-top: 124px;
+    border-radius: 16px;
 }
 
 .section-5-baner1 {
     width: 100%;
     object-fit: cover;
     height: 100%;
+    border-radius: 16px;
 }
 
 .section-5-bottom-box {
