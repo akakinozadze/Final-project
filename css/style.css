@@ -726,11 +726,13 @@
     object-fit: cover;
     transition: all;
     transition-duration: 0.5s;
-   
+
 }
+
 .input-svg:hover {
     transform: scale(1.1);
 }
+
 .input {
     box-shadow: 5px 5px 10px;
     border-radius: 6px;
@@ -741,7 +743,7 @@
 }
 
 .form1 {
-    
+
     width: 100%;
     height: 100%;
 }
@@ -986,7 +988,7 @@
     max-width: 1440px;
     height: 1264px;
     width: 100%;
-    background-color: #D06604;
+    /* background-color: #D06604; */
     margin: auto;
     margin-top: 120px;
 
@@ -994,13 +996,12 @@
 
 .section-6-h5-mother {
     max-width: 1440px;
-    height: 876px;
-    /* background-color: #2B4089; */
+    min-height: 576px;
+    background-color: #2B4089;
     display: grid;
     place-items: center;
     background-color: #2B892E;
     border-radius: 8px;
-    box-shadow: 10px 10px 20px;
     width: 100%;
 
 
@@ -1012,7 +1013,6 @@
     font-weight: 500;
     text-align: center;
     max-width: 1296px;
-    height: 612px;
     text-align: left;
     font-family: 'Manrope';
     text-shadow: 15px 15px 30px rgb(133, 140, 155);
@@ -1023,9 +1023,8 @@
 .section-6-pharagrap-box-mother {
     max-width: 1296px;
     height: 262px;
-    background-color: #2904d0;
+    /* background-color: #2904d0; */
     width: 100%;
-    margin: auto;
     margin-top: 124px;
     width: 100%;
 }
@@ -1033,8 +1032,8 @@
 .section-6-title-box {
     max-width: 896px;
     height: 262px;
-    box-shadow: 5px 5px 20px rgb(9, 22, 46);
-    border-radius: 6px;
+    box-shadow: 5px 5px 20px rgb(16, 29, 54);
+    border-radius: 16px;
 
 }
 
@@ -1042,7 +1041,7 @@
     font-size: 76px;
     font-weight: 500;
     color: #FFFFFF;
-    text-shadow: 5px 5px 30px rgb(11, 27, 56);
+    text-shadow: 5px 5px 30px rgb(31, 45, 71);
 }
 
 .section6-pharagrap-1 {
@@ -1056,7 +1055,7 @@
 
 .section-6-mother-2box {
     max-width: 1296px;
-    height: 670px;
+   height: 670px;
     background-color: #D06604;
     margin: auto;
     margin-top: 100px;
@@ -1079,7 +1078,7 @@
 
 .section-6-pharagrap-mother {
     max-width: 516px;
-    height: 100px;
+    min-height: 100px;
     width: 100%;
     background-color: blueviolet;
     margin-top: 52px;

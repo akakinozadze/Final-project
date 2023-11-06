@@ -28,7 +28,7 @@
     /* section-3 */
     .section-3-mother {
         max-width: 696px;
-       
+
     }
 
     /*  ! section 4 */
@@ -139,45 +139,134 @@
         max-width: 1024px;
 
     }
+
     .section-5-mother-pharagrap {
         max-width: 696px;
         height: 196px;
     }
+
     .section-5-h5 {
         font-size: 58px;
     }
+
     .section-5-top-pharagrap {
         font-size: 16px;
     }
+/* ? გასასწორებელი მაქვს ეს ბანერი ცენტრში */
     .section-5-baner {
         max-width: 1024px;
-        width: 100%;
+        /* width: 90%; */
         margin-top: 70px;
+       
+        border-radius: 16px;
+        background-color: aqua;
+       
+        
+    
 
     }
+
     .section-5-baner1 {
         width: 100%;
         object-fit: cover;
+        
+
     }
+
     .section-5-bottom-box {
         max-width: 1024px;
     }
+
     .section-5-bottom-last {
         max-width: 276px;
     }
+
     .section-5-icon-box {
         max-width: 314px;
-      
+
     }
+
     .section5-h5 {
         max-width: 234px;
-        
+
     }
+
     .section5-h5 {
         font-size: 14px;
     }
+
     .section5-pharagrap {
         font-size: 15px;
+    }
+
+    /* ! section 6  */
+    .section-6-grendmother {
+        max-width: 1024px;
+
+    }
+
+    .section-6-h5-mother {
+        max-width: 1024px;
+
+
+    }
+
+    .section-6-h5 {
+        font-size: 80px;
+        max-width: 1024px;
+    }
+    .section-6-pharagrap-box-mother {
+        max-width: 1024px;
+        background-color: chocolate;
+       
+
+    }
+    .section-6-title-box  {
+        max-width: 796px;
+        height: 204px;
+        
+    }
+    .section6-h5 {
+        font-size: 56px;
+    }
+    .section6-pharagrap-1 {
+        font-size: 18px;
+    }
+    .section-6-mother-2box {
+        max-width: 1024px;
+        background-color: blue;
+        height: 470px;
+    }
+    .section-6-left-box {
+        max-width: 490px;
+        background-color: rgb(58, 226, 43);
+        height: 470px;
+    }
+    .section-6-pharagrap-mother {
+        max-width: 456px;
+        background-color: brown;
+        margin: auto;
+        
+    }
+    .section-6-h6 {
+        font-size: 24px;
+        line-height: 22px;
+        background-color: cadetblue;
+    }
+    .section-6-pharagrap-2 {
+        font-size: 16px;
+        line-height: 24px;
+        background-color: rgb(8, 61, 61);
+    }
+    .section-6-icon-mother {
+        max-width: 316px;
+        background-color: aqua;
+        margin: auto;
+      
+    }
+    .section-6-icon  {
+        max-width: 140px;
+        height: 140px;
     }
 
 }
