@@ -795,7 +795,6 @@
     grid-template-columns: repeat(3, minmax(10px, 87px));
     row-gap: 16px;
     justify-content: space-between;
-    /* box-shadow: 10px 10px 30px black; */
     border-radius: 16px;
 
 
@@ -909,8 +908,8 @@
 
 .section-5-baner1 {
     width: 100%;
-    object-fit: cover;
     height: 100%;
+    object-fit: cover;
     border-radius: 16px;
 }
 
@@ -1133,7 +1132,6 @@
     margin-top: 100px;
     display: flex;
     justify-content: space-between;
-    /* box-shadow: 5px 5px 20px; */
     border-radius: 16px;
 }
 
@@ -1182,4 +1180,16 @@
     box-shadow: 5px 5px 20px;
     border-radius: 16px;
 
+}
+/* ! section 7  */
+.section-7-baner-image {
+    max-width: 1440px;
+    width: 100%;
+    height: 848px;
+    margin-top: 60px;
+}
+.section7-baner {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
