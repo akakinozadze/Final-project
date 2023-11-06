@@ -1051,7 +1051,7 @@
 
 .section-6-mother-2box {
     max-width: 1296px;
-   height: 670px;
+    height: 670px;
     margin: auto;
     margin-top: 100px;
     width: 100%;
@@ -1070,6 +1070,7 @@
     align-content: center;
     flex-wrap: wrap;
     box-shadow: 5px 5px 20px;
+    margin-left: 15px;
 }
 
 .section-6-pharagrap-mother {
@@ -1155,7 +1156,7 @@
     margin-top: 16px;
     text-align: center;
     width: 100%;
-   
+
 
 }
 
@@ -1181,6 +1182,7 @@
     border-radius: 16px;
 
 }
+
 /* ! section 7  */
 .section-7-baner-image {
     max-width: 1440px;
@@ -1189,35 +1191,39 @@
     margin: auto;
     border-radius: 18px;
     margin-top: 60px;
-   
+
 }
+
 .section7-baner {
     width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 18px;
-  
+
 }
+
 /* ! section 8 */
 .section-8-grendmother-box {
     /* background-color: #232723; */
     max-width: 1296px;
-    margin:auto;
+    margin: auto;
     height: 1012px;
     margin-top: 120px;
-   
+
 }
+
 .section-8-pharagrap-mother-box {
     max-width: 896px;
     height: 332px;
     /* background-color: #D06604; */
     margin: auto;
-   
-    
+
+
 }
+
 .section-8-h3 {
     font-size: 18px;
-    color:#48D64C ;
+    color: #48D64C;
     text-align: center;
     /* background-color: #2B4089; */
     box-shadow: 5px 5px 30px rgb(43, 63, 104);
@@ -1225,6 +1231,7 @@
     max-width: 160px;
     margin: auto;
 }
+
 .section-8-h5 {
     font-size: 76px;
     color: #FFFFFF;
@@ -1234,6 +1241,7 @@
     height: 184px;
     text-shadow: 5px 5px 30px rgb(53, 70, 102);
 }
+
 .section-8-pharagrap1 {
     font-size: 20px;
     line-height: 28px;
@@ -1245,6 +1253,7 @@
     box-shadow: 5px 5px 30px rgb(11, 22, 44);
     border-radius: 18px;
 }
+
 .section-8-image {
     max-width: 224px;
     height: 352px;
@@ -1253,33 +1262,42 @@
     margin: auto;
     margin-top: 150px;
     box-shadow: 5px 5px 30px rgb(11, 22, 44);
+    transition: all;
+    transition-duration: 0.5s;
+}
+.section-8-image:hover {
+    transform: scale(1.1);
+
 }
 .section8-image {
     object-fit: cover;
     width: 100%;
     height: 100%;
 }
+
 .section-8-bottom-box {
     max-width: 1296px;
     height: 87px;
     margin-top: 88px;
     display: flex;
-    justify-content: space-between;
+    column-gap: 15px;
+
+
 }
+
 .section-8-mother-box {
     max-width: 416px;
     box-shadow: 5px 5px 30px rgb(11, 22, 44);
     width: 100%;
     border-radius: 18px;
 
+
 }
+
 .section-8-son-box {
     display: flex;
     justify-content: space-between;
     max-width: 416px;
-  
-  
- 
 }
 
 .section-8-icon-box {
@@ -1288,12 +1306,14 @@
     margin: auto;
     transition: all;
     transition-duration: 0.5s;
-  
-   
+
+
 }
+
 .section-8-icon-box:hover {
     transform: scale(2.2);
 }
+
 .section-8-icon-image {
     object-fit: cover;
     width: 100%;
@@ -1301,6 +1321,7 @@
     display: grid;
     place-items: center;
 }
+
 .section-8-h6 {
     font-size: 29px;
     background-color: #091b5a;
@@ -1309,6 +1330,7 @@
     color: #FFFFFF;
 
 }
+
 .section-8-last-pharagrap {
     margin-top: 10px;
     color: #BDBDBD;

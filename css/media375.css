@@ -1,4 +1,4 @@
-@media (min-width:300px) and (max-width:749px) {
+@media (min-width:300px) and (max-width:750px) {
     .header-mother-box {
         max-width: 342px;
         height: 29px;
@@ -547,8 +547,44 @@
         background-image: url(../image/Frame.150.svg);
         background-repeat: no-repeat;
         background-size: cover;
-        width: 100%;
+        width: 99%;
         border-radius: 16px;
         margin-top: 60px;
     }
+    /*  ! section 8 */
+    .section-8-grendmother-box {
+        max-width: 342px;
+        margin: auto;
+        margin-top: 96px;
+
+    }
+    .section-8-pharagrap-mother-box {
+        max-width: 342px;
+        height: 233px;
+        background-color: aqua;
+        margin: auto;
+    }
+    .section-8-h3 {
+        max-width: 342px;
+        font-size: 16px;
+
+
+    }
+    .section-8-h5 {
+        font-size: 36px;
+        height: 86px;
+
+
+    }
+    .section-8-pharagrap1 {
+        font-size: 16px;
+        max-width: 342px;
+       
+      
+    }
+  .section-8-bottom-box {
+    display: grid;
+    grid-template-columns: auto-fit;
+    row-gap: 10px;
+  }
 }

@@ -15,9 +15,8 @@
         width: 100%;
 
     }
-    .get-started-2 {
-        
-    }
+
+    .get-started-2 {}
 
     .box-baner-image-1 {
         max-width: 950px;
@@ -156,17 +155,18 @@
     .section-5-top-pharagrap {
         font-size: 16px;
     }
+
     .section-5-baner {
         max-width: 1024px;
-        margin-top: 70px; 
+        margin-top: 70px;
         border-radius: 16px;
-                 
+
     }
 
     .section-5-baner1 {
         width: 100%;
         object-fit: cover;
-       
+
     }
 
     .section-5-bottom-box {
@@ -210,76 +210,140 @@
         font-size: 80px;
         max-width: 1024px;
     }
+
     .section-6-pharagrap-box-mother {
-        max-width: 1024px;       
+        max-width: 1024px;
     }
-    .section-6-title-box  {
+
+    .section-6-title-box {
         max-width: 796px;
         height: 204px;
         width: 90%;
-      
-        
+
+
     }
+
     .section6-h5 {
         font-size: 56px;
     }
+
     .section6-pharagrap-1 {
         font-size: 18px;
     }
+
     .section-6-mother-2box {
         max-width: 924px;
         height: 470px;
         display: flex;
         justify-content: space-around;
     }
+
     .section-6-left-box {
         max-width: 360px;
         height: 470px;
     }
+
     .section-6-pharagrap-mother {
         max-width: 386px;
         margin: auto;
-        
+
     }
+
     .section-6-h6 {
         font-size: 24px;
         line-height: 22px;
     }
+
     .section-6-pharagrap-2 {
         font-size: 16px;
         line-height: 24px;
 
     }
+
     .section-6-icon-mother {
         max-width: 316px;
         margin: auto;
-      
+
     }
-    .section-6-icon  {
+
+    .section-6-icon {
         max-width: 140px;
         height: 140px;
     }
+
     .section-6-bottom-box-mother {
         max-width: 1024px;
     }
+
     .section-6-bottom-box1 {
         max-width: 131px;
     }
-    .section6-bottom-h6  {
+
+    .section6-bottom-h6 {
         font-size: 65px;
     }
+
     .section-6-bottom-pharagrap1 {
         font-size: 14px;
     }
+
     .section-6-bottom-box2 {
         max-width: 242px;
     }
+
     .section-6-bottom-box3 {
         max-width: 132px;
     }
+
     .section-6-bottom-box4 {
         max-width: 91px;
     }
-    /* ! section 7 */
-    
+
+    /* ! section 8 */
+    .section-8-grendmother-box {
+        max-width: 1024px;
+        background-color: aqua;
+        height: 970px;
+    }
+
+    .section-8-pharagrap-mother-box {
+        max-width: 698px;
+        height: 290px;
+        background-color: blue;
+    }
+
+    .section-8-h3 {
+        font-size: 16px;
+        max-width: 140px;
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .section-8-h5 {
+        font-size: 59px;
+    }
+
+    .section-8-pharagrap1 {
+        font-size: 16px;
+        line-height: 24px;
+        max-width: 428px;
+        margin-top: 2px;
+    }
+
+    .section-8-bottom-box {
+        max-width: 1024px;
+        background-color: blueviolet;
+
+
+    }
+
+    .section-8-h6 {
+        font-size: 22px;
+
+    }
+
+    .section-8-last-pharagrap {
+        font-size: 12px;
+    }
+
 }
