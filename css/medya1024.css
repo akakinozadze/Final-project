@@ -302,14 +302,10 @@
     /* ! section 8 */
     .section-8-grendmother-box {
         max-width: 1024px;
-        background-color: aqua;
-        height: 970px;
     }
 
     .section-8-pharagrap-mother-box {
         max-width: 698px;
-        height: 290px;
-        background-color: blue;
     }
 
     .section-8-h3 {
@@ -327,14 +323,13 @@
         font-size: 16px;
         line-height: 24px;
         max-width: 428px;
-        margin-top: 2px;
+        margin-top: 44px;
+           
     }
+  
 
     .section-8-bottom-box {
-        max-width: 1024px;
-        background-color: blueviolet;
-
-
+        max-width: 1024px;      
     }
 
     .section-8-h6 {
@@ -343,7 +338,8 @@
     }
 
     .section-8-last-pharagrap {
-        font-size: 12px;
+        font-size: 16px;
+           
     }
 
 }

@@ -1204,10 +1204,8 @@
 
 /* ! section 8 */
 .section-8-grendmother-box {
-    /* background-color: #232723; */
     max-width: 1296px;
     margin: auto;
-    height: 1012px;
     margin-top: 120px;
 
 }
@@ -1215,7 +1213,6 @@
 .section-8-pharagrap-mother-box {
     max-width: 896px;
     height: 332px;
-    /* background-color: #D06604; */
     margin: auto;
 
 
@@ -1225,7 +1222,6 @@
     font-size: 18px;
     color: #48D64C;
     text-align: center;
-    /* background-color: #2B4089; */
     box-shadow: 5px 5px 30px rgb(43, 63, 104);
     border-radius: 8px;
     max-width: 160px;
@@ -1237,7 +1233,6 @@
     color: #FFFFFF;
     text-align: center;
     margin-top: 16px;
-    /* background-color: burlywood; */
     height: 184px;
     text-shadow: 5px 5px 30px rgb(53, 70, 102);
 }
@@ -1258,17 +1253,18 @@
     max-width: 224px;
     height: 352px;
     border-radius: 18px;
-    /* background-color: coral; */
     margin: auto;
-    margin-top: 150px;
+    margin-top: 130px;
     box-shadow: 5px 5px 30px rgb(11, 22, 44);
     transition: all;
     transition-duration: 0.5s;
 }
+
 .section-8-image:hover {
     transform: scale(1.1);
 
 }
+
 .section8-image {
     object-fit: cover;
     width: 100%;
@@ -1277,8 +1273,8 @@
 
 .section-8-bottom-box {
     max-width: 1296px;
-    height: 87px;
-    margin-top: 88px;
+    min-height: 87px;
+    margin-top: 108px;
     display: flex;
     column-gap: 15px;
 
@@ -1289,9 +1285,8 @@
     max-width: 416px;
     box-shadow: 5px 5px 30px rgb(11, 22, 44);
     width: 100%;
-    border-radius: 18px;
-
-
+    border-radius: 8px;
+    min-height: 87px;
 }
 
 .section-8-son-box {
@@ -1324,10 +1319,12 @@
 
 .section-8-h6 {
     font-size: 29px;
-    background-color: #091b5a;
     max-width: 382px;
     width: 100%;
     color: #FFFFFF;
+    border-radius: 8px;
+    text-shadow: 5px 5px 30px rgb(56, 56, 36);
+
 
 }
 
@@ -1336,7 +1333,6 @@
     color: #BDBDBD;
     font-size: 16px;
     line-height: 24px;
-    /* background-color: rgb(49, 47, 45); */
     max-width: 416px;
-    text-shadow: 5px 5px 30px rgb(11, 22, 44);
+    /* text-shadow: 5px 5px 30px rgb(11, 22, 44); */
 }
