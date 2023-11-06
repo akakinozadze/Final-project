@@ -208,7 +208,6 @@
     .section-6-h5-mother {
         max-width: 1024px;
 
-
     }
 
     .section-6-h5 {
@@ -216,10 +215,7 @@
         max-width: 1024px;
     }
     .section-6-pharagrap-box-mother {
-        max-width: 1024px;
-        background-color: chocolate;
-       
-
+        max-width: 1024px;       
     }
     .section-6-title-box  {
         max-width: 796px;
@@ -233,18 +229,15 @@
         font-size: 18px;
     }
     .section-6-mother-2box {
-        max-width: 1024px;
-        background-color: blue;
+        max-width: 924px;
         height: 470px;
     }
     .section-6-left-box {
-        max-width: 490px;
-        background-color: rgb(58, 226, 43);
+        max-width: 440px;
         height: 470px;
     }
     .section-6-pharagrap-mother {
-        max-width: 456px;
-        background-color: brown;
+        max-width: 386px;
         margin: auto;
         
     }
@@ -260,7 +253,6 @@
     }
     .section-6-icon-mother {
         max-width: 316px;
-        background-color: aqua;
         margin: auto;
       
     }
@@ -268,5 +260,25 @@
         max-width: 140px;
         height: 140px;
     }
-
+    .section-6-bottom-box-mother {
+        max-width: 1024px;
+    }
+    .section-6-bottom-box1 {
+        max-width: 131px;
+    }
+    .section6-bottom-h6  {
+        font-size: 65px;
+    }
+    .section-6-bottom-pharagrap1 {
+        font-size: 14px;
+    }
+    .section-6-bottom-box2 {
+        max-width: 242px;
+    }
+    .section-6-bottom-box3 {
+        max-width: 132px;
+    }
+    .section-6-bottom-box4 {
+        max-width: 91px;
+    }
 }

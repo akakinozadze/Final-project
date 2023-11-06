@@ -986,9 +986,7 @@
 /* ! section-6 */
 .section-6-grendmother {
     max-width: 1440px;
-    height: 1264px;
     width: 100%;
-    /* background-color: #D06604; */
     margin: auto;
     margin-top: 120px;
 
@@ -997,7 +995,6 @@
 .section-6-h5-mother {
     max-width: 1440px;
     min-height: 576px;
-    background-color: #2B4089;
     display: grid;
     place-items: center;
     background-color: #2B892E;
@@ -1023,7 +1020,6 @@
 .section-6-pharagrap-box-mother {
     max-width: 1296px;
     height: 262px;
-    /* background-color: #2904d0; */
     width: 100%;
     margin-top: 124px;
     width: 100%;
@@ -1056,7 +1052,6 @@
 .section-6-mother-2box {
     max-width: 1296px;
    height: 670px;
-    background-color: #D06604;
     margin: auto;
     margin-top: 100px;
     width: 100%;
@@ -1074,15 +1069,14 @@
     flex-direction: column;
     align-content: center;
     flex-wrap: wrap;
+    box-shadow: 5px 5px 20px;
 }
 
 .section-6-pharagrap-mother {
     max-width: 516px;
     min-height: 100px;
     width: 100%;
-    background-color: blueviolet;
     margin-top: 52px;
-    box-shadow: 5px 5px 20px;
     border-radius: 8px;
 
 }
@@ -1107,7 +1101,6 @@
 .section-6-icon-mother {
     max-width: 516px;
     width: 100%;
-    background-color: #D06604;
     margin-top: 152px;
 
 }
@@ -1135,17 +1128,19 @@
 .section-6-bottom-box-mother {
     max-width: 1296px;
     width: 100%;
-    background-color: brown;
     margin: auto;
     margin-top: 100px;
     display: flex;
     justify-content: space-between;
+    /* box-shadow: 5px 5px 20px; */
+    border-radius: 16px;
 }
 
 .section-6-bottom-box1 {
     max-width: 151px;
-    background-color: #2B892E;
     width: 100%;
+    box-shadow: 5px 5px 20px;
+    border-radius: 16px;
 }
 
 .section6-bottom-h6 {
@@ -1161,24 +1156,29 @@
     margin-top: 16px;
     text-align: center;
     width: 100%;
-    background-color: #2904d0;
+   
+
 }
 
 .section-6-bottom-box2 {
     max-width: 322px;
     width: 100%;
-    background-color: #2B4089;
+    box-shadow: 5px 5px 20px;
+    border-radius: 16px;
 }
 
 .section-6-bottom-box3 {
     max-width: 168px;
     width: 100%;
-    background-color: blue;
+    box-shadow: 5px 5px 20px;
+    border-radius: 16px;
 
 }
 
 .section-6-bottom-box4 {
     max-width: 121px;
     width: 100%;
-    background-color: blueviolet;
+    box-shadow: 5px 5px 20px;
+    border-radius: 16px;
+
 }

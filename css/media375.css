@@ -400,7 +400,7 @@
     .section-5-bottom-last {
         max-width: 342px;
         height: 106px;
-       
+
 
     }
 
@@ -417,7 +417,102 @@
     .section-5-icon-and-h5-mother {
         max-width: 19.5px;
         height: 19.5px;
-        
+
     }
 
+    /* ! section 6 */
+    .section-6-grendmother {
+        max-width: 390px;     
+    }
+    .section-6-h5-mother {
+        max-width: 390px;   
+    }
+    .section-6-h5 {
+        font-size: 60px;
+        text-align: start;
+        width: 90%;
+    }
+    .section-6-pharagrap-box-mother {
+        max-width: 342px;
+        height: 206px;
+        margin: auto;
+        margin-top: 96px;
+    }
+    .section-6-title-box {
+        height: 206px;
+    }
+    .section6-h5 {
+        font-size: 36px;
+    }
+    .section6-pharagrap-1 {
+        font-size: 16px;
+        line-height: 24px;
+        margin-top: 34px;
+    }
+    .section-6-mother-2box {
+        max-width: 342px;
+        height: 912px;
+        display: flex;
+        flex-direction: column;
+    }
+    .section-6-left-box {
+        max-width: 342px;
+        width: 90%;
+        height: 410px;
+        margin: auto;
+
+    }
+    .section-6-pharagrap-mother {
+        max-width: 294px;
+        margin: auto;
+    }
+    .section-6-h6 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .section-6-pharagrap-2 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .section-6-icon-mother {
+        max-width: 120px;
+        height: 120px;
+        margin: auto;
+    }
+    .section-6-icon {
+       width: 100%;
+       height: 100%;
+    }
+    .section6-icon {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .section-6-bottom-box-mother {
+        max-width: 342px;
+        height: 54px;
+        margin: auto;
+        margin-top: 60px;
+    }
+    .section-6-bottom-box1 {
+        max-width: 38px;
+        
+    }
+    .section-6-bottom-box2 {
+        max-width: 89px;
+    }
+    .section-6-bottom-box3 {
+        max-width: 42px;
+
+    }
+    .section-6-bottom-box4 {
+        max-width: 81px;
+
+    }
+    .section6-bottom-h6 {
+        font-size: 20px;
+    }
+    .section-6-bottom-pharagrap1 {
+        font-size: 12px;
+    }
 }
