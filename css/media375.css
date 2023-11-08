@@ -695,4 +695,33 @@
 
 
     }
+    /* ! footer */
+    .footer-box-grendmother {
+        max-width: 342px;
+        background-color: blueviolet;
+        margin: auto;
+
+    }
+    .footer-h2 {
+        font-size: 60px;
+
+    }
+    .from-teg1 {
+        max-width: 342px;
+        width: 98%;
+        margin: auto;
+       
+    }
+    .name  {
+        max-width: 342px;
+        width: 100%;
+    }
+    .name2 {
+        max-width: 342px;
+        width: 100%;
+    }
+    .option1 {
+        max-width: 342px;
+        width: 100%;
+    }
 }
