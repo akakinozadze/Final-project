@@ -1,9 +1,7 @@
 @media (min-width:750px) and (max-width:1024px) {
     .header-mother-box {
         max-width: 812px;
-        /* width: 100%; */
         height: 35px;
-
     }
 
     .section-1-mother {
@@ -13,7 +11,6 @@
         align-content: space-between;
         place-items: center;
         width: 100%;
-
     }
 
     .get-started-2 {}
@@ -28,7 +25,7 @@
         display: none;
     }
 
-    /* section-3 */
+    /* ! section-3 */
     .section-3-mother {
         max-width: 696px;
 
@@ -66,7 +63,6 @@
 
     .section-4-pharagrap1 {
         font-size: 12px;
-
     }
 
     .section-4-pharagrap2 {
@@ -76,7 +72,6 @@
     .section-4-icon1 {
         max-width: 26px;
         height: 26px;
-
     }
 
     .section-4-grandson-2-left-botom-box {
@@ -86,7 +81,6 @@
 
     .section-4-left-pharagrap1 {
         font-size: 26px;
-
     }
 
     .section-4-left-pharagrap2 {
@@ -109,8 +103,17 @@
         height: 54px;
     }
 
+    .section-4-pharagrap-right-1 {
+        text-align: center;
+    }
+
     .grandosn-1right {
         max-width: 319px;
+        height: 54px;
+    }
+
+    .grandson-right-pharagrap-2 {
+        width: 80%;
     }
 
     .section-4-icon1-right {
@@ -140,7 +143,6 @@
     /* ! section 5 */
     .section-5-grendmother {
         max-width: 1024px;
-
     }
 
     .section-5-mother-pharagrap {
@@ -160,13 +162,11 @@
         max-width: 1024px;
         margin-top: 70px;
         border-radius: 16px;
-
     }
 
     .section-5-baner1 {
         width: 100%;
         object-fit: cover;
-
     }
 
     .section-5-bottom-box {
@@ -179,12 +179,10 @@
 
     .section-5-icon-box {
         max-width: 314px;
-
     }
 
     .section5-h5 {
         max-width: 234px;
-
     }
 
     .section5-h5 {
@@ -198,12 +196,10 @@
     /* ! section 6  */
     .section-6-grendmother {
         max-width: 1024px;
-
     }
 
     .section-6-h5-mother {
         max-width: 1024px;
-
     }
 
     .section-6-h5 {
@@ -214,13 +210,10 @@
     .section-6-pharagrap-box-mother {
         max-width: 1024px;
     }
-
     .section-6-title-box {
         max-width: 796px;
         height: 204px;
         width: 90%;
-
-
     }
 
     .section6-h5 {
@@ -324,12 +317,12 @@
         line-height: 24px;
         max-width: 428px;
         margin-top: 44px;
-           
+
     }
-  
+
 
     .section-8-bottom-box {
-        max-width: 1024px;      
+        max-width: 1024px;
     }
 
     .section-8-h6 {
@@ -339,55 +332,90 @@
 
     .section-8-last-pharagrap {
         font-size: 16px;
-           
+
     }
+
     /* ! section 9 */
     .section-9-grendmother-box {
         max-width: 1024px;
         min-height: 694px;
     }
-    .sectio-9-h2  {
+
+    .sectio-9-h2 {
         font-size: 56px;
         max-width: 516px;
         min-height: 121px;
     }
+
     .section-9-mother-box {
         max-width: 1024px;
-        
+
     }
+
     .section-9-son-box {
         max-width: 316px;
     }
+
     .section-9-pharagrap1 {
         font-size: 16px;
         max-width: 252px;
-        min-height: 156;
     }
+
     .section-9-icon-mother-box {
         max-width: 252px;
         min-height: 60px;
     }
-    .section-9-icon-name  {
+
+    .section-9-icon-name {
         max-width: 169px;
         min-height: 33px;
         text-align: center;
     }
+
     .section-9-h4 {
         font-size: 14px;
         line-height: 12px;
 
     }
+
     .section-9-pharagrap2 {
         font-size: 10px;
     }
+
     .section9-icon-box {
         max-width: 60px;
         min-height: 60px;
         border-radius: 100px;
     }
+
     .section-9-icon-image {
         width: 100%;
         height: 100%;
     }
 
+    /* ! footer */
+    .footer-box-grendmother {
+        max-width: 1024px;
+    }
+
+    .footer-h2 {
+        font-size: 76px;
+        max-width: 496px;
+    }
+
+    .scan-QR-box {
+        max-width: 213px;
+        height: 70px;
+        display: grid;
+        justify-content: space-between;
+    }
+
+    .footer-icon-mother-box {
+        display: flex;
+        align-items: center;
+    }
+
+    .footer-pharagrap1 {
+        font-size: 16px;
+    }
 }

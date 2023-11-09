@@ -2,9 +2,6 @@
     .header-mother-box {
         max-width: 342px;
         height: 29px;
-
-
-
     }
 
     .box-logo {
@@ -12,8 +9,6 @@
         height: 29px;
         transition: all;
         transition-duration: 0.5s;
-
-
     }
 
     .box-logo:hover {
@@ -50,7 +45,7 @@
         background-color: #282e28;
     }
 
-    /* section-1-style */
+    /* ! section-1-style */
     .section-1-mother {
         max-width: 342px;
         height: 260px;
@@ -59,7 +54,7 @@
     }
 
     .section-1-h4 {
-        font-size: 40px;
+        font-size: 38px;
         font-weight: 500;
         margin-top: 20px;
 
@@ -68,14 +63,20 @@
     .section-1-pharagrap {
         max-width: 342px;
         height: 48px;
-        font-size: 16px;
+        font-size: 14px;
         line-height: 24px;
         text-align: center;
         margin-top: 16px;
 
     }
 
-    /* section-2 */
+    .get-started-2 {
+        font-size: 14px;
+        max-width: 90px;
+
+    }
+
+    /* !section-2 */
     .box-baner-image-1 {
         max-width: 342px;
         height: 380px;
@@ -99,8 +100,6 @@
 
     .section-3-mother-icon {
         max-width: 440px;
-
-
     }
 
     .image-forbes {
@@ -140,16 +139,14 @@
 
     .section4-34-mother-pharagrap {
         max-width: 342px;
-        height: 182px;
         width: 100%;
         margin: auto;
         display: grid;
         align-content: space-between;
-
     }
 
     .section4-34-h5-bottom {
-        font-size: 36px;
+        font-size: 32px;
         font-weight: 500;
         height: 86px;
         padding-top: 8px;
@@ -159,13 +156,13 @@
         font-size: 16px;
         line-height: 24px;
         height: 72px;
-
+        
     }
 
     /* ! section 4  */
     .section-4-grandmother {
         max-width: 342px;
-        height: 1700px;
+
     }
 
     .section-4-top-mother {
@@ -174,7 +171,6 @@
         width: 100%;
         display: flex;
         flex-direction: column;
-
     }
 
     .top-son-left {
@@ -185,14 +181,16 @@
     .top-son-left-2 {
         max-width: 294px;
         height: 154.88px;
-
-
     }
 
     .top-grandson1-left {
         max-width: 232.97px;
         height: 43.97px;
         width: 100%;
+    }
+
+    .grandosn-1right {
+        height: 43.97px;
     }
 
     .section-4-box {
@@ -211,7 +209,6 @@
         height: 12.48px;
         font-size: 12px;
         line-height: 14px;
-
     }
 
     .section-4-pharagrap2 {
@@ -261,29 +258,28 @@
     }
 
     .section-4-pharagrap-right-1 {
-        font-size: 12px;
-
+        font-size: 14px;
+        text-align: center;
     }
 
     .grandson-right-pharagrap-2 {
-        font-size: 12px;
-        width: 100%;
+        font-size: 16px;
+        width: 70%;
+        text-align: center;
     }
 
     .grandosn-1right {
-        max-width: 294px;
+        max-width: 294px;      
     }
 
     .section-4-mother-pharagrap {
         max-width: 292px;
         height: 116px;
-
     }
 
     .section4-pharagrap1-right {
         font-size: 24px;
         line-height: 28px;
-
     }
 
     .section4-pharagrap2-right {
@@ -296,27 +292,22 @@
         display: flex;
         flex-direction: column;
         max-width: 342px;
-
     }
 
     .bottom-son-left {
         max-width: 342px;
         display: flex;
         flex-direction: column;
-
     }
 
     .bottom-son-left1 {
         max-width: 294px;
         height: 120.2px;
-
-
     }
 
     .section-4-bottom-left-pharagraps-box {
         max-width: 294px;
         height: 116px;
-
     }
 
     .section4-pharagrap3-bottom {
@@ -332,7 +323,6 @@
     .section-4-right-grendmother {
         max-width: 342px;
         width: 100%;
-
     }
 
     .section-4right-pharagrap-mother {
@@ -351,20 +341,13 @@
     }
 
     /* ! section 5 */
-    .section-5 {
-        padding-top: 100px;
-    }
-
     .section-5-grendmother {
         max-width: 342px;
-        height: 1056px;
-
     }
 
     .section-5-mother-pharagrap {
         max-width: 342px;
         height: 182px;
-
     }
 
     .section-5-h5 {
@@ -378,7 +361,6 @@
 
     .section-5-baner1 {
         display: none;
-
     }
 
     .section-5-baner {
@@ -386,7 +368,6 @@
         background-repeat: no-repeat;
         background-size: cover;
         height: 380px;
-
     }
 
     .section-5-bottom-box {
@@ -394,14 +375,11 @@
         height: 358px;
         display: flex;
         flex-direction: column;
-
     }
 
     .section-5-bottom-last {
         max-width: 342px;
         height: 106px;
-
-
     }
 
     .section5-h5 {
@@ -417,7 +395,6 @@
     .section-5-icon-and-h5-mother {
         max-width: 19.5px;
         height: 19.5px;
-
     }
 
     /* ! section 6 */
@@ -468,7 +445,6 @@
         width: 90%;
         height: 410px;
         margin: auto;
-
     }
 
     .section-6-pharagrap-mother {
@@ -487,21 +463,25 @@
     }
 
     .section-6-icon-mother {
-        max-width: 120px;
-        height: 120px;
         margin: auto;
     }
 
     .section-6-icon {
         width: 100%;
-        height: 100%;
+        background-image: url(../image/svg.112.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 
+    .section-6-icon-1 {
+        background-image: url(../image/svg.111.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
     }
 
     .section6-icon {
         width: 100%;
-        height: 100%;
-        object-fit: cover;
+        display: none;
     }
 
     .section-6-bottom-box-mother {
@@ -513,7 +493,6 @@
 
     .section-6-bottom-box1 {
         max-width: 38px;
-
     }
 
     .section-6-bottom-box2 {
@@ -522,12 +501,10 @@
 
     .section-6-bottom-box3 {
         max-width: 42px;
-
     }
 
     .section-6-bottom-box4 {
         max-width: 81px;
-
     }
 
     .section6-bottom-h6 {
@@ -557,7 +534,6 @@
         max-width: 342px;
         margin: auto;
         margin-top: 96px;
-
     }
 
     .section-8-pharagrap-mother-box {
@@ -569,22 +545,16 @@
     .section-8-h3 {
         max-width: 342px;
         font-size: 16px;
-
-
     }
 
     .section-8-h5 {
         font-size: 36px;
         height: 86px;
-
-
     }
 
     .section-8-pharagrap1 {
         font-size: 16px;
         max-width: 342px;
-
-
     }
 
     .section-8-bottom-box {
@@ -602,8 +572,6 @@
     .section-8-icon-box {
         max-width: 24px;
         height: 24px;
-
-
     }
 
     .section-8-icon-image {
@@ -628,7 +596,7 @@
     .section-9-grendmother-box {
         max-width: 342px;
         margin: auto;
-        margin-top: 98px;
+        margin-top: 48px;
     }
 
     .sectio-9-h2 {
@@ -646,13 +614,15 @@
     .section-9-son-box {
         max-width: 342px;
         border-left: none;
-        min-height: 317px;
 
+    }
+
+    .section-9-icon-mother-box3 {
+        margin-top: 20px;
     }
 
     .section-9-pharagrap1 {
         max-width: 278px;
-        min-height: 196px;
         font-size: 16px;
         line-height: 28px;
     }
@@ -660,6 +630,7 @@
     .section-9-icon-mother-box {
         max-width: 278px;
         min-height: 70px;
+        margin-top: 10px;
 
     }
 
@@ -695,33 +666,136 @@
 
 
     }
+
     /* ! footer */
     .footer-box-grendmother {
         max-width: 342px;
-        background-color: blueviolet;
         margin: auto;
 
     }
+
     .footer-h2 {
         font-size: 60px;
 
     }
+
     .from-teg1 {
         max-width: 342px;
         width: 98%;
         margin: auto;
-       
+
     }
-    .name  {
+
+    .name {
         max-width: 342px;
         width: 100%;
     }
+
     .name2 {
         max-width: 342px;
         width: 100%;
     }
+
     .option1 {
         max-width: 342px;
         width: 100%;
     }
+
+    .footer-logo-box {
+        display: flex;
+        align-items: center;
+        max-width: 212px;
+        height: 56px;
+
+    }
+
+    .image-375 {
+        background-image: url(../image/logo.375.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        max-width: 72px;
+        height: 72px;
+        width: 100%;
+
+    }
+
+    .footer-h1 {
+        font-size: 50px;
+        padding-top: 50px;
+        height: 56px;
+        width: 100%;
+        height: 100%;
+        border-radius: 100px;
+    }
+
+    .footer-logo1 {
+        display: none;
+    }
+
+    .footer-navigation-mother {
+        display: flex;
+        flex-direction: column;
+        max-width: 342px;
+        width: 100%;
+        margin: auto;
+    }
+    .footer-navigation-box1 {
+        max-width: 342px;
+        height: 120px;
+    }
+    .QR-image {
+        display: none;
+    }
+    .footer-QR {
+        background-image: url(../image/QR.375.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .scan-QR-box {
+        max-width: 218px;
+        height: 78px;
+        width: 100%;
+       
+    }
+    .footer-h6 {
+        margin-top: 10px;
+    }
+    .footer-pharagrap1 {
+        font-size: 16px;
+
+    }
+    .footer-icon-mother-box {
+        max-width: 60px;
+        height: 26px;
+        margin-top: 30px;
+    }
+    .footer-navigation-box-mother {
+        max-width: 342px;
+        height: 259px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .footer-box1 {
+        max-width: 200px;
+        width: 100%;
+        
+    }
+    .footer-box2 {
+        max-width: 141px;
+        width: 100%;
+        
+    }
+    .footer-box-language {
+        max-width: 342px;
+    }
+    .footer-form-2 {
+        max-width: 150px;
+        width: 100%;
+    }
+    .footer-select-2 {
+        max-width: 150px;
+        width: 100%;
+    }
+    
+  
 }
