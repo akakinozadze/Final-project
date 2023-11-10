@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
 @media (min-width:300px) and (max-width:750px) {
     .header-mother-box {
         max-width: 342px;
@@ -7,16 +14,23 @@
     .box-logo {
         max-width: 73px;
         height: 29px;
+        -webkit-transition: all;
+        -o-transition: all;
         transition: all;
-        transition-duration: 0.5s;
+        -webkit-transition-duration: 0.5s;
+             -o-transition-duration: 0.5s;
+                transition-duration: 0.5s;
     }
 
     .box-logo:hover {
-        transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+            -ms-transform: scale(1.1);
+                transform: scale(1.1);
     }
 
     .logo {
-        object-fit: cover;
+        -o-object-fit: cover;
+           object-fit: cover;
         width: 100%;
     }
 
@@ -32,19 +46,37 @@
         max-width: 24px;
         height: 24px;
         width: 100%;
+        display: -ms-grid;
         display: grid;
         place-items: center;
         margin-top: 2.5px;
-        transition: all;
-        transition-duration: 0.5s;
-        box-shadow: 5px 5px 10px;
+     
     }
-
-    .burger-bar:hover {
-        transform: scale(1.1);
-        background-color: #282e28;
+    .navigation-1.newnavigation {
+        display: block;
+        -webkit-box-orient:vertical;
+        -webkit-box-direction:normal;
+            -ms-flex-direction:column;
+                flex-direction:column;
+        -webkit-box-align: end;
+            -ms-flex-align: end;
+                align-items: flex-end;
     }
+    .navigation {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-align: end;
+            -ms-flex-align: end;
+                align-items: flex-end;
+        margin-top: 10px;
 
+    }
+    .li {
+        margin-top: 10px;
+    }
+ 
     /* ! section-1-style */
     .section-1-mother {
         max-width: 342px;
@@ -141,8 +173,10 @@
         max-width: 342px;
         width: 100%;
         margin: auto;
+        display: -ms-grid;
         display: grid;
-        align-content: space-between;
+        -ms-flex-line-pack: justify;
+            align-content: space-between;
     }
 
     .section4-34-h5-bottom {
@@ -169,8 +203,13 @@
         max-width: 342px;
         height: 846px;
         width: 100%;
+        display: -webkit-box;
+        display: -ms-flexbox;
         display: flex;
-        flex-direction: column;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
     }
 
     .top-son-left {
@@ -289,25 +328,37 @@
 
     /* ! section-4-bottom-mother */
     .section-4-bottom-mother {
+        display: -webkit-box;
+        display: -ms-flexbox;
         display: flex;
-        flex-direction: column;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
         max-width: 342px;
     }
 
     .bottom-son-left {
         max-width: 342px;
+        display: -webkit-box;
+        display: -ms-flexbox;
         display: flex;
-        flex-direction: column;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
     }
 
     .bottom-son-left1 {
         max-width: 294px;
         height: 120.2px;
     }
+
     .section4-pharagrap1-bottom {
         font-size: 18px;
 
     }
+
     .section4-pharagrap2-bottom {
         font-size: 10px;
 
@@ -381,8 +432,13 @@
     .section-5-bottom-box {
         max-width: 342px;
         height: 358px;
+        display: -webkit-box;
+        display: -ms-flexbox;
         display: flex;
-        flex-direction: column;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
     }
 
     .section-5-bottom-last {
@@ -428,7 +484,7 @@
     }
 
     .section-6-title-box {
-      min-height: 206px;
+        min-height: 206px;
     }
 
     .section6-h5 {
@@ -444,8 +500,13 @@
     .section-6-mother-2box {
         max-width: 342px;
         height: 912px;
+        display: -webkit-box;
+        display: -ms-flexbox;
         display: flex;
-        flex-direction: column;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
     }
 
     .section-6-left-box {
@@ -566,6 +627,7 @@
     }
 
     .section-8-bottom-box {
+        display: -ms-grid;
         display: grid;
         max-width: 342px;
         min-height: 382px;
@@ -585,7 +647,8 @@
     .section-8-icon-image {
         width: 100%;
         height: 100%;
-        object-fit: cover;
+        -o-object-fit: cover;
+           object-fit: cover;
         padding-left: 6px;
     }
 
@@ -614,7 +677,9 @@
     }
 
     .section-9-mother-box {
+        display: -ms-grid;
         display: grid;
+        -ms-grid-columns: auto;
         grid-template-columns: auto;
 
     }
@@ -670,7 +735,8 @@
 
     .section-9-icon-image {
         width: 100%;
-        object-fit: cover;
+        -o-object-fit: cover;
+           object-fit: cover;
 
 
     }
@@ -710,8 +776,12 @@
     }
 
     .footer-logo-box {
+        display: -webkit-box;
+        display: -ms-flexbox;
         display: flex;
-        align-items: center;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
         max-width: 212px;
         height: 56px;
 
@@ -741,8 +811,13 @@
     }
 
     .footer-navigation-mother {
+        display: -webkit-box;
+        display: -ms-flexbox;
         display: flex;
-        flex-direction: column;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
         max-width: 342px;
         width: 100%;
         margin: auto;
@@ -788,8 +863,11 @@
     .footer-navigation-box-mother {
         max-width: 342px;
         height: 259px;
+        display: -webkit-box;
+        display: -ms-flexbox;
         display: flex;
-        flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
     }
 
     .footer-box1 {
@@ -818,6 +896,7 @@
         max-width: 150px;
         width: 100%;
     }
+
     .lable-2 {
         font-size: 16px;
     }
