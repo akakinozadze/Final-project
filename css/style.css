@@ -373,7 +373,7 @@
     font-weight: 500;
     color: #FFFFFF;
     width: 896px;
-   min-height: 182px;
+    min-height: 182px;
     text-align: center;
     width: 100%;
     box-shadow: 5px 5px 20px;
@@ -481,7 +481,7 @@
 
 .section-4-grandson-2-left-botom-box {
     max-width: 500px;
- min-height: 92px;
+    min-height: 98px;
     margin-top: 95px;
     box-shadow: 10px 10px 40px black;
     border-radius: 8px;
@@ -609,7 +609,7 @@
 
 .section-4-mother-pharagrap {
     max-width: 362px;
- min-height: 96px;
+    min-height: 96px;
     margin: auto;
     margin-top: 59px;
     box-shadow: 10px 10px 40px black;
@@ -893,7 +893,7 @@
 
 .section-5-mother-pharagrap {
     max-width: 896px;
-   min-height: 262px;
+    min-height: 262px;
     margin: auto;
     box-shadow: 5px 5px 20px cornflowerblue;
     border-radius: 8px;
@@ -1052,7 +1052,7 @@
 
 .section-6-title-box {
     max-width: 896px;
-   min-height: 262px;
+    min-height: 262px;
     box-shadow: 5px 5px 20px rgb(16, 29, 54);
     border-radius: 16px;
 
@@ -1599,7 +1599,7 @@
 
 .footer-navigation-mother {
     margin-top: 60px;
-border-radius: 18px;
+    border-radius: 18px;
     display: flex;
     justify-content: space-between;
 }
