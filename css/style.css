@@ -373,11 +373,11 @@
     font-weight: 500;
     color: #FFFFFF;
     width: 896px;
-    height: 182px;
+   min-height: 182px;
     text-align: center;
     width: 100%;
     box-shadow: 5px 5px 20px;
-    border-radius: 60px;
+    border-radius: 50px;
 }
 
 .section4-34-pharagrap {
@@ -481,7 +481,7 @@
 
 .section-4-grandson-2-left-botom-box {
     max-width: 500px;
-    height: 92px;
+ min-height: 92px;
     margin-top: 95px;
     box-shadow: 10px 10px 40px black;
     border-radius: 8px;
@@ -609,7 +609,7 @@
 
 .section-4-mother-pharagrap {
     max-width: 362px;
-    height: 96px;
+ min-height: 96px;
     margin: auto;
     margin-top: 59px;
     box-shadow: 10px 10px 40px black;
@@ -886,7 +886,6 @@
 /* ! section 5 */
 .section-5-grendmother {
     max-width: 1296px;
-    /* height: 1168px; */
     width: 100%;
     margin: auto;
     margin-top: 117px;
@@ -894,7 +893,7 @@
 
 .section-5-mother-pharagrap {
     max-width: 896px;
-    height: 262px;
+   min-height: 262px;
     margin: auto;
     box-shadow: 5px 5px 20px cornflowerblue;
     border-radius: 8px;

@@ -148,7 +148,7 @@
     .section4-34-h5-bottom {
         font-size: 32px;
         font-weight: 500;
-        height: 86px;
+        min-height: 99px;
         padding-top: 8px;
     }
 
@@ -156,7 +156,7 @@
         font-size: 16px;
         line-height: 24px;
         height: 72px;
-        
+
     }
 
     /* ! section 4  */
@@ -217,7 +217,7 @@
 
     .section-4-grandson-2-left-botom-box {
         max-width: 294px;
-        height: 92px;
+        min-height: 94px;
         margin: auto;
         margin-top: 87.13px;
     }
@@ -269,12 +269,12 @@
     }
 
     .grandosn-1right {
-        max-width: 294px;      
+        max-width: 294px;
     }
 
     .section-4-mother-pharagrap {
         max-width: 292px;
-        height: 116px;
+        min-height: 116px;
     }
 
     .section4-pharagrap1-right {
@@ -347,7 +347,7 @@
 
     .section-5-mother-pharagrap {
         max-width: 342px;
-        height: 182px;
+        min-height: 184px;
     }
 
     .section-5-h5 {
@@ -414,7 +414,7 @@
 
     .section-6-pharagrap-box-mother {
         max-width: 342px;
-        height: 206px;
+        min-height: 208px;
         margin: auto;
         margin-top: 96px;
     }
@@ -739,63 +739,80 @@
         width: 100%;
         margin: auto;
     }
+
     .footer-navigation-box1 {
         max-width: 342px;
         height: 120px;
     }
+
     .QR-image {
         display: none;
     }
+
     .footer-QR {
         background-image: url(../image/QR.375.svg);
         background-repeat: no-repeat;
         background-size: cover;
     }
+
     .scan-QR-box {
         max-width: 218px;
         height: 78px;
         width: 100%;
-       
+
     }
+
     .footer-h6 {
         margin-top: 10px;
     }
+
     .footer-pharagrap1 {
         font-size: 16px;
 
     }
+
     .footer-icon-mother-box {
         max-width: 60px;
         height: 26px;
         margin-top: 30px;
     }
+
     .footer-navigation-box-mother {
         max-width: 342px;
         height: 259px;
         display: flex;
         flex-wrap: wrap;
     }
+
     .footer-box1 {
         max-width: 200px;
         width: 100%;
-        
+
     }
+
     .footer-box2 {
         max-width: 141px;
         width: 100%;
-        
+
     }
+
     .footer-box-language {
         max-width: 342px;
+        margin-top: 8px;
     }
+
     .footer-form-2 {
         max-width: 150px;
         width: 100%;
     }
+
     .footer-select-2 {
         max-width: 150px;
         width: 100%;
     }
-    
-  
+    .lable-2 {
+        font-size: 16px;
+    }
+
+
 }
