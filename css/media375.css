@@ -420,7 +420,7 @@
     }
 
     .section-6-title-box {
-        height: 206px;
+      min-height: 206px;
     }
 
     .section6-h5 {

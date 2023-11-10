@@ -1052,7 +1052,7 @@
 
 .section-6-title-box {
     max-width: 896px;
-    height: 262px;
+   min-height: 262px;
     box-shadow: 5px 5px 20px rgb(16, 29, 54);
     border-radius: 16px;
 
